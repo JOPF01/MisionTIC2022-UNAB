@@ -1,0 +1,2 @@
+Este es un fichero de prueba de inicio
+para conexión con GitHub
