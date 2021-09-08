@@ -1,0 +1,7 @@
+git init = para inicializar un repositorio local
+git add . = para transferir todos los ficheros al repositorio
+git commit - m "un mensaje cualquiera" = para establecer el registo de los ficheros en GitHub
+git config --global user.email "you@example.com" = para identificarse con la cuenta de GitHub
+git config --global user.name "Your Name" = para identificarse con la cuenta de GitHub
+git status = para ver el estado del repositorio
+fit log = para ver los detalles de las modificaciones
